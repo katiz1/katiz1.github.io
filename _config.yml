@@ -25,7 +25,7 @@ author:
   avatar           : "1-копия(1).png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "<h2>This is my academic project <span style="font-size: 0.7em;">📚 ✨</span></h2>"
+  bio              : "This is my academic project"
   location         : "Earth"
   employer         : "Higher School of Economics (HSE)"
   uri              : # URL
