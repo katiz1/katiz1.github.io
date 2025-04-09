@@ -1,4 +1,4 @@
----
+Article
 title: "Interview: A day in the life of a mother whose child has cerebral palsy."
 collection: publications
 category: manuscripts
