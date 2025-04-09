@@ -7,7 +7,7 @@ excerpt: 'The interview discusses everyday routines and challenges in caring for
 date: 2019-28-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.academia.edu/128724434/A_day_in_the_life_of_a_mother_whose_child_has_cerebral_palsy'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'G.Kenzhebek. (2019). &quot;Interview: A day in the life of a mother whose child has cerebral palsy.&quot; <i>Journal 1</i>. 1(1).'
 ---
