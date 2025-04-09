@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'The interview discusses everyday routines and challenges in caring for a child with cerebral palsy, including regular therapy and accessibility issues. The mother shares her experiences with healthcare systems in different countries and notes the importance of professional support, inclusive infrastructure, and public awareness.'
-date: 2019-28-01
+date: 2019-01-28
 venue: 'WordPress.com'
 url: 
 citation: 'G.Kenzhebek. (2019). &quot;"Interview: A day in the life of a mother whose child has cerebral palsy.".&quot; Publication on the author's WordPress blog'
