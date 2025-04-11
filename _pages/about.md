@@ -23,7 +23,7 @@ redirect_from:
 
 I have published a [paper](https://katiz1.github.io//publications/) in the Molodoy Ucheny (Молодой ученый) academic journal, available at moluch.ru. 
 
-## 📜 Reimplementing and Reproducing Research
+## 📜 Rule-Based Linguistic Analysis with Python
 
 With a strong foundation in linguistics and computational analysis, I have independently conducted research combining syntactic analysis and computational tools. One of my recent projects involved analyzing the frequency of word orders in Russian and English using Python-based NLP libraries such as spaCy, pymorphy2, and NLTK. I performed in-depth syntactic parsing and designed scripts to extract and compare linear word order patterns from bilingual corpora.
 
