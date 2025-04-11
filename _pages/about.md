@@ -35,11 +35,10 @@ Currently, I am working on extending this project to include visualization of sy
 
 I am currently undergoing professional retraining in Computational Linguistics at the Higher School of Economics (HSE) in Moscow, where I am completing advanced courses in Python, mathematical statistics with R, corpus analysis, and machine learning.
 
-Previously, I worked as a translator and interpreter on multiple projects for the United Nations, including two initiatives involving GIS and cartographic data. In my bachelor's thesis, I explored inclusive education, focusing on teaching children with cerebral palsy through fairy tales. I later published an article on this subject, supported by observations from an internship at an inclusive school.
+Previously, I worked as a translator/interpreter and contributed to projects for the United Nations, including two initiatives involving GIS and cartographic data. In my bachelor's thesis, I explored inclusive education, focusing on teaching children with cerebral palsy through fairy tales. I later published an article on this subject, supported by observations from an internship at an inclusive school.
 
 These experiences have deeply informed my current interest in computational approaches to language, particularly in the areas of syntactic structure and word order analysis, rule-based and statistical NLP using Python and R, and developing language learning tools using linguistic insights.
 
-Additionally, I contributed as a translator to GIS-related projects for the United Nations, which sparked my curiosity about the intersection of language, data, and geographic information, and inspired interdisciplinary thinking that now informs my work in computational linguistics.
 
 
 
