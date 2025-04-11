@@ -21,7 +21,7 @@ redirect_from:
 
 # Selected experience 
 
-I have published a [paper](https://katiz1.github.io//publications/) in the Molodoy Ucheny (Молодой ученый) academic journal, available at moluch.ru. \
+I have published a [paper](https://katiz1.github.io//publications/) in the Molodoy Ucheny (Молодой ученый) academic journal, available at moluch.ru. 
 
 📜 Reimplementing and Reproducing Research
 
