@@ -19,9 +19,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Research projects"
-    url: /Research projects/
-   # url: https://github.com/katiz1/parsing-difficulty-project/tree/master
+ # - title: "Research projects"
+  #  url: /Research projects/
+ 
 
   # - title: "Blog Posts"
     # url: /year-archive/
