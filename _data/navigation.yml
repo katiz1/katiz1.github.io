@@ -23,7 +23,7 @@ main:
    # url: https://github.com/katiz1/parsing-difficulty-project/tree/master
 
    - title: "Blog Posts"
-    # url: /year-archive/
+     url: /year-archive/
 
   # - title: "Talks"
   #  url: /talks/    
