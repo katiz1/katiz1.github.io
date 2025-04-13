@@ -27,7 +27,7 @@ I have published a [paper](https://katiz1.github.io//publications/) in the Molod
 
 With a strong foundation in linguistics and computational analysis, I have independently conducted research combining syntactic analysis and computational tools. One of my recent projects involved analyzing the frequency of word orders in Russian and English using Python-based NLP libraries such as spaCy, pymorphy2, and NLTK. I performed in-depth syntactic parsing and designed scripts to extract and compare linear word order patterns from bilingual corpora.
 
-As part of this work, I wrote an academic article titled “Частотность различных порядков слов в русском и английском языках: синтаксический анализ и лингвистические аспекты”, which bridges theoretical linguistics and practical NLP applications. This research did not rely on machine learning but emphasized linguistic rule-based parsing and statistical analysis.
+As part of this work, I wrote an academic article titled “Частотность различных порядков слов в русском и английском языках: синтаксический анализ и лингвистические аспекты”[RU]/Frequency of different word orders in Russian and English: syntactic analysis and linguistic aspects[EN], which bridges theoretical linguistics and practical NLP applications. This research did not rely on machine learning but emphasized linguistic rule-based parsing and statistical analysis.
 
 Currently, I am working on extending this project to include visualization of syntactic data on interactive maps, exploring GIS integration for spatial-linguistic representation, and incorporating basic statistical analysis (e.g., ANOVA) of syntactic tendencies. You can view this work in more detail in my [portfolio entry](https://katiz1.github.io//portfolio/).
 
