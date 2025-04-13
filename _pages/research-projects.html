@@ -1,32 +1,33 @@
 ---
-layout: page
+layout: archive
 title: "Research Projects"
 permalink: /projects/
+author_profile: true
 ---
 
-<div class="content">
-  <h1>Research Projects</h1>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my projects on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-  <h2>Project 1: Word Order in Russian and English</h2>
-  <p><strong>Description:</strong> This project analyzes the frequency and structure of word order in Russian and English using natural language processing (NLP) tools. The goal is to understand how syntactic structures differ in both languages and to explore their impact on translation accuracy.</p>
-  <p><strong>Excerpt:</strong> By examining a corpus of texts, we analyze the word order in both languages and compare the frequency of different sentence structures. This study provides insights into how language models can handle syntactic differences.</p>
-  <p><strong>GitHub Repository:</strong> <a href="https://github.com/yourusername/word-order-project" target="_blank">Word Order Project - GitHub</a></p>
+{% include base_path %}
 
-  <hr>
-
-  <h2>Project 2: Eye-Tracking Simulation Without Eye-Tracking Devices</h2>
-  <p><strong>Description:</strong> This project focuses on simulating eye-tracking patterns for sentence processing in the absence of actual eye-tracking equipment. Using statistical modeling and machine learning, the study simulates what eye movements might look like during reading.</p>
-  <p><strong>Excerpt:</strong> The study uses eye-tracking data simulations based on syntactic and semantic cues to predict how readers process word order. The findings offer an innovative approach to understanding reading comprehension.</p>
-  <p><strong>GitHub Repository:</strong> <a href="https://github.com/yourusername/eye-tracking-sim" target="_blank">Eye-Tracking Simulation Project - GitHub</a></p>
-
-  <hr>
-
-  <h2>Project 3: Language Models and Word Order in Machine Translation</h2>
-  <p><strong>Description:</strong> This project explores how language models, especially those used for machine translation, handle different word orders in English and Russian. The goal is to optimize machine translation systems by focusing on syntactic accuracy.</p>
-  <p><strong>Excerpt:</strong> We analyze the challenges that machine translation faces when dealing with sentences that have non-standard word orders. The study helps improve translation accuracy for languages with flexible syntax.</p>
-  <p><strong>GitHub Repository:</strong> <a href="https://github.com/yourusername/machine-translation" target="_blank">Machine Translation Project - GitHub</a></p>
-</div>
-
----
-
-
+<!-- New style rendering if project categories are defined -->
+{% if site.project_category %}
+  {% for category in site.project_category %}
+    {% assign title_shown = false %}
+    {% for project in site.research_projects reversed %}
+      {% if project.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for project in site.research_projects reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
