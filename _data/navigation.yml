@@ -20,6 +20,7 @@ main:
 
   - title: "Research projects"
     url: /Research projects/
+   # url: https://github.com/katiz1/parsing-difficulty-project/tree/master
 
   # - title: "Blog Posts"
     # url: /year-archive/
@@ -27,7 +28,7 @@ main:
   # - title: "Talks"
   #  url: /talks/    
 
- # - title: "Teaching"
+  # - title: "Teaching"
   #  url: /teaching/    
          
  
