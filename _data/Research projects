@@ -1,11 +1,8 @@
 ---
-- title: "Eye-Tracking and Word Order in Russian and English"
-  description: "Statistical analysis of eye-tracking data to understand syntactic structures."
-  link: "https://github.com/yourrepo/project1"
-  year: 2024
-- title: "Interactive GIS Dictionary"
-  description: "Combines GIS and linguistics for educational visualization."
-  link: "https://github.com/yourrepo/project2"
-  year: 2023
+- title: "Word Order in Russian and English"
+  description: "Analyzed frequency and structure using NLP tools."
+  link: "https://github.com/katiz1/Parsing Difficulty Simulation & ANOVA (Python)"
+  year: 2025
+
 
 ---
