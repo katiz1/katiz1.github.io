@@ -1,10 +1,11 @@
 ---
-title: "Parsing Difficulty Simulation & ANOVA (Python)"
-collection: Research projects
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This project explores how different sentence structures affect how quickly people can read and understand sentences. It compares three types of sentences: SVO (Subject-Verb-Object), Passive, and OSV (Object-Subject-Verb). By using statistical analysis (ANOVA) and data visualization (boxplots), the project checks if there are significant differences in reading times between these sentence types. The results help us better understand how sentence structure influences reading and comprehension.'
-date: 2025-13-04
-venue: ''
-githuburl: 'https://github.com/katiz1/parsing-difficulty-project'
+- title: "Eye-Tracking and Word Order in Russian and English"
+  description: "Statistical analysis of eye-tracking data to understand syntactic structures."
+  link: "https://github.com/yourrepo/project1"
+  year: 2024
+- title: "Interactive GIS Dictionary"
+  description: "Combines GIS and linguistics for educational visualization."
+  link: "https://github.com/yourrepo/project2"
+  year: 2023
+
 ---
