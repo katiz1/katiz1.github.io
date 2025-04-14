@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Illustration of combining computational linguistics and AI](Comp.png(1)){: .align-right width="300px"}
+![Illustration of combining computational linguistics and AI](Comp(1).png){: .align-right width="300px"}
 
 🎓 I’m currently studying Computational Linguistics in a Professional Retraining Program at the National Research University Higher School of Economics (HSE) in Moscow.
 
