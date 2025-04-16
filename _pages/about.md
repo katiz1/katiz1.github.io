@@ -37,7 +37,7 @@ I am currently undergoing professional retraining in Computational Linguistics a
 
 Previously, I worked as a translator/interpreter and contributed to projects for the United Nations, including two initiatives involving GIS and cartographic data. In my bachelor's thesis, I explored inclusive education, focusing on teaching children with cerebral palsy through fairy tales. I later published an article on this subject, supported by observations from an internship at an inclusive school.
 
-These experiences have deeply informed my current interest in computational approaches to language, particularly in the areas of syntactic structure and word order analysis, rule-based and statistical NLP using Python and R, and developing language learning tools using linguistic insights.
+These experiences have significantly shaped my current focus on computational language analysis, particularly in syntactic structure and word order, as well as rule-based and statistical NLP using Python and R. I’m also exploring how linguistic insights can be applied to the development of language learning tools.
 
 
 
